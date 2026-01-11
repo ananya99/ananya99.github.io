@@ -40,6 +40,24 @@ layout: default
     max-width: 300px;
     border-radius: 10px;
   }
+  .social-links {
+    margin: 25px 0;
+    font-size: 1.8em;
+  }
+  .social-links a {
+    margin-right: 15px;
+    color: #159957;
+    text-decoration: none;
+    transition: opacity 0.3s;
+  }
+  .social-links a:hover {
+    opacity: 0.7;
+  }
+  .contact-info {
+    margin: 20px 0;
+    font-size: 1.05em;
+    line-height: 1.8;
+  }
   @media (max-width: 768px) {
     .profile-section {
       flex-direction: column;
@@ -47,31 +65,41 @@ layout: default
   }
 </style>
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
 <div class="nav-tabs">
   <a href="index.html" class="active">Home</a>
   <a href="resume.html">Resume</a>
   <a href="blogs.html">Blogs</a>
 </div>
 
-<div class="profile-section">
-  <div class="profile-content">
-    <h1>Ananya Gupta</h1>
+<div class="profile-section" markdown="1">
+  <div class="profile-content" markdown="1">
 
-## About Me
-    
-Hey there! 👋 I'm Ananya, currently knee-deep in my MS in Computer Science at EPFL in beautiful Lausanne, Switzerland. My days revolve around Machine Learning, Deep Learning, and making computers talk to each other efficiently (aka Distributed Systems).
+Hey there!👋
+
+I'm Ananya, currently knee-deep in my MS in Computer Science at EPFL in beautiful city Lausanne, Switzerland. My interests are Machine Learning, Deep Learning and Distributed Systems.
 
 Currently, I'm interning at Nexthink's AI team, where I'm enhancing Retrieval-Augmented Generation (RAG) systems. I'm building hybrid search strategies and knowledge graphs to make AI retrieval smarter and more accurate—because finding the right information matters.
 
-Before diving into academia, I spent four awesome years as a Software Engineer III at Google Search in Bangalore. I worked on modernizing one of the world's most complex systems—migrating critical features to a new microservices architecture, which dramatically slashed build times and made developers' lives so much easier. I also co-developed an LLM-driven workflow to automate large-scale code migrations, working on evaluation strategies and feedback loops to improve model performance.
+Before diving into academia, I spent four years as a Software Engineer III at Google Search. I worked on modernizing one of the world's most complex systems, Google Search — migrating critical features to a new microservices architecture, to optimize the infrastructure and to make developers' lives easier. I also co-developed an LLM-driven workflow to automate large-scale code migrations, working on evaluation strategies and feedback loops to improve model performance.
 
-I'm also deeply fascinated by bio-medical applications of AI and ML. I'm currently working with the MLBIO lab at EPFL on extending LUNA, a generative AI model that reconstructs tissue structures from gene expression data. I'm integrating cell morphology and global tissue images to improve spatial reconstruction—it's incredible how AI can help us understand biological systems at such a detailed level.
+I'm deeply fascinated by bio-medical applications of AI and ML. I'm currently working with the MLBIO lab at EPFL on extending LUNA, a generative AI model that reconstructs tissue structures from gene expression data. I'm integrating cell morphology and global tissue images to improve spatial reconstruction—it's incredible how AI can help us understand biological systems at such a detailed level.
 
-I kicked off my journey with a Bachelor's in Electrical Engineering from IIT BHU, where I earned the Director's Gold Medal for academic and co-curricular excellence.
+**What gets me excited:** Diffusion models, optimization problems, the intersection of AI with healthcare and biology, and finding ways to create real-world impact at the ground level. I'm still exploring and trying to find my place where technology meets meaningful change.
 
-What gets me excited: Diffusion models, optimization problems, the intersection of AI with healthcare and biology, and finding ways to create real-world impact at the ground level. I'm still exploring and trying to find my place where technology meets meaningful change.
+**My toolkit:** Python, C++, Java, PyTorch, NumPy and Git along with delicious Indian Food and coffee ☕
 
-My toolkit: Python, C++, Java, PyTorch, NumPy, Git, and Indian Food and coffee ☕
+<div class="social-links">
+  <a href="https://linkedin.com/in/ananya94" target="_blank" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+  <a href="https://twitter.com/ananyag12345" target="_blank" title="Twitter"><i class="fab fa-twitter"></i></a>
+  <a href="https://github.com/ananya99" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
+</div>
+
+<div class="contact-info">
+  📧 ananya (dot) gupta (at) epfl (dot) ch<br>
+  📍 Lausanne, Switzerland
+</div>
 
   </div>
 
@@ -80,7 +108,7 @@ My toolkit: Python, C++, Java, PyTorch, NumPy, Git, and Indian Food and coffee �
   </div>
 </div>
 
-## Key Highlights
+<!-- ## Key Highlights
 
 **Current Research @ EPFL**
 - Extending LUNA to Cell Morphologies with Prof. Maria Brbić
@@ -94,4 +122,4 @@ My toolkit: Python, C++, Java, PyTorch, NumPy, Git, and Indian Food and coffee �
 **Awards**
 - Director's Gold Medal at IIT BHU
 - 2nd Prize, Women in Tech Hackathon
-- MIT India Initiative participant
+- MIT India Initiative participant -->
