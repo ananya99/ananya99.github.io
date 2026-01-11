@@ -24,27 +24,15 @@ layout: default
     border-bottom: 3px solid #159957;
   }
   .resume-container {
-    text-align: center;
-    margin: 40px 0;
+    width: 100%;
+    height: calc(100vh - 100px);
+    margin: 0;
+    padding: 0;
   }
   .resume-embed {
     width: 100%;
-    height: 1000px;
-    border: 1px solid #ddd;
-    border-radius: 5px;
-  }
-  .download-btn {
-    display: inline-block;
-    padding: 12px 30px;
-    margin: 20px 0;
-    background-color: #159957;
-    color: white;
-    text-decoration: none;
-    border-radius: 5px;
-    font-weight: bold;
-  }
-  .download-btn:hover {
-    background-color: #0d6d3d;
+    height: 100%;
+    border: none;
   }
 </style>
 
@@ -55,9 +43,5 @@ layout: default
 </div>
 
 <div class="resume-container">
-  <h1>Resume</h1>
-
-  <a href="ananya_cv_2026.pdf" class="download-btn" download>Download PDF</a>
-
   <iframe src="ananya_cv_2026.pdf" class="resume-embed"></iframe>
 </div>
