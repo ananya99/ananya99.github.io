@@ -107,3 +107,5 @@ I'm deeply fascinated by bio-medical applications of AI and ML. I'm currently wo
     <img src="ananya_photo.jpg" alt="Ananya Gupta">
   </div>
 </div>
+
+<meta name="google-site-verification" content="01294f8013167c77" />
