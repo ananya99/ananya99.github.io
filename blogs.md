@@ -54,31 +54,10 @@ layout: default
 ---
 
 <div class="blog-post">
-  <h3>Getting Started with Diffusion Models for Spatial Biology</h3>
-  <div class="blog-meta">Coming Soon • Estimated Reading Time: 8 mins</div>
-  <p>An introduction to how generative AI models like LUNA are transforming tissue reconstruction from gene expression data. I'll walk through the key concepts behind diffusion models and their applications in spatial transcriptomics.</p>
-  <p><strong>Topics:</strong> Diffusion Models, Spatial Biology, Generative AI</p>
-</div>
-
-<div class="blog-post">
-  <h3>Physics-Informed Neural Networks: Beyond the Basics</h3>
-  <div class="blog-meta">Coming Soon • Estimated Reading Time: 10 mins</div>
-  <p>A deep dive into extending traditional PINNs with spline-based architectures for solving complex PDEs. Based on my recent work with 3D Steady-State SplinePINNs for Navier-Stokes equations.</p>
-  <p><strong>Topics:</strong> PINNs, Neural Networks, Fluid Dynamics</p>
-</div>
-
-<div class="blog-post">
-  <h3>Building Production RAG Systems: Lessons from the Trenches</h3>
-  <div class="blog-meta">Coming Soon • Estimated Reading Time: 12 mins</div>
-  <p>Practical insights on enhancing retrieval in RAG systems using hybrid search and knowledge graphs. What works, what doesn't, and how to evaluate your retrieval pipeline effectively.</p>
-  <p><strong>Topics:</strong> RAG, LLMs, Knowledge Graphs, Production ML</p>
-</div>
-
-<div class="blog-post">
-  <h3>Migrating Google Search: Modernizing Large-Scale Systems</h3>
-  <div class="blog-meta">Coming Soon • Estimated Reading Time: 15 mins</div>
-  <p>Reflections on working at Google Search and the challenges of migrating features to microservices architecture. Performance improvements, automation strategies, and lessons learned.</p>
-  <p><strong>Topics:</strong> System Design, Microservices, Software Engineering at Scale</p>
+  <h3>Building Knowledge Graphs to Aid RAG Agents and Specially Retrieval</h3>
+  <div class="blog-meta">Coming Soon</div>
+  <p>An in-depth exploration of how knowledge graphs can enhance retrieval-augmented generation systems. I'll share insights from building large-scale knowledge graphs from heterogeneous data sources and designing graph-based search strategies to improve retrieval coverage and identify missing entity links.</p>
+  <p><strong>Topics:</strong> Knowledge Graphs, RAG Systems, Retrieval, Graph-based Search, LLMs</p>
 </div>
 
 ---
