@@ -84,7 +84,7 @@ Currently, I'm interning at Nexthink's AI team, where I'm enhancing Retrieval Au
 
 Before diving into academia, I spent four years as a Software Engineer III at Google Search. I worked on modernizing one of the world's most complex systems, Google Search migrating critical features to a new microservices architecture, to optimize the infrastructure and to make developers' lives easier. I also co-developed an LLM-driven workflow to automate large-scale code migrations, working on evaluation strategies and feedback loops to improve model performance.
 
-I'm deeply fascinated by bio-medical applications of AI and ML. I'm currently working with the MLBIO lab at EPFL on extending LUNA, a generative AI model that reconstructs tissue structures from gene expression data. I'm integrating cell morphology and global tissue images to improve spatial reconstruction—it's incredible how AI can help us understand biological systems at such a detailed level.
+I'm deeply fascinated by bio-medical applications of AI and ML. I'm currently working with the MLBIO lab at EPFL on extending LUNA, a generative AI model that reconstructs tissue structures from gene expression data. I'm integrating cell morphology and global tissue images to improve spatial reconstruction.
 
 **What gets me excited:** Diffusion models, optimization problems, the intersection of AI with healthcare and biology, and finding ways to create real-world impact at the ground level. I'm still exploring and trying to find my place where technology meets meaningful change.
 
