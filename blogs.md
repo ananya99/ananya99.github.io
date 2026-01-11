@@ -41,7 +41,7 @@ layout: default
 
 <div class="nav-tabs">
   <a href="index.html">Home</a>
-  <a href="resume.html">Resume</a>
+  <a href="https://github.com/ananya99/ananya99.github.io/blob/master/ananya_cv_2026.pdf" target="_blank">Resume</a>
   <a href="blogs.html" class="active">Blogs</a>
 </div>
 
