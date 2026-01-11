@@ -1,37 +1,97 @@
-## Welcome to GitHub Pages
+---
+layout: default
+---
 
-You can use the [editor on GitHub](https://github.com/ananya99/ananya99.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<style>
+  .nav-tabs {
+    text-align: center;
+    margin: 20px 0 40px 0;
+    border-bottom: 2px solid #159957;
+  }
+  .nav-tabs a {
+    display: inline-block;
+    padding: 10px 30px;
+    margin: 0 10px;
+    text-decoration: none;
+    color: #159957;
+    font-weight: bold;
+    border-bottom: 3px solid transparent;
+  }
+  .nav-tabs a:hover {
+    border-bottom: 3px solid #159957;
+  }
+  .nav-tabs a.active {
+    border-bottom: 3px solid #159957;
+  }
+  .profile-section {
+    display: flex;
+    gap: 40px;
+    align-items: flex-start;
+    margin-bottom: 40px;
+  }
+  .profile-content {
+    flex: 2;
+  }
+  .profile-image {
+    flex: 1;
+    text-align: center;
+  }
+  .profile-image img {
+    max-width: 300px;
+    border-radius: 10px;
+  }
+  @media (max-width: 768px) {
+    .profile-section {
+      flex-direction: column;
+    }
+  }
+</style>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<div class="nav-tabs">
+  <a href="index.html" class="active">Home</a>
+  <a href="resume.html">Resume</a>
+  <a href="blogs.html">Blogs</a>
+</div>
 
-### Markdown
+<div class="profile-section">
+  <div class="profile-content">
+    <h1>Ananya Gupta</h1>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    <h2>About Me</h2>
+    <p>I am currently pursuing my MS in Computer Science at EPFL, Switzerland, with a strong focus on Machine Learning, Deep Learning, and Distributed Systems. Previously, I worked as a Software Engineer III at Google Search in Bangalore, where I contributed to large-scale system modernization and AI-driven automation.</p>
 
-```markdown
-Syntax highlighted code block
+    <p>I completed my Bachelor's in Electrical Engineering from IIT BHU with a GPA of 9.58/10.0, earning the Director's Gold Medal for academic and co-curricular excellence.</p>
 
-# Header 1
-## Header 2
-### Header 3
+    <p><strong>Areas of Interest:</strong> Machine Learning, Deep Learning, Diffusion Models, Optimization, Distributed Systems</p>
 
-- Bulleted
-- List
+    <p><strong>Skills:</strong> C++, Java, Python, PyTorch, NumPy, Git, CUDA</p>
 
-1. Numbered
-2. List
+    <h3>Contact</h3>
+    <ul>
+      <li><strong>Email:</strong> <a href="mailto:ananya99gupta@gmail.com">ananya99gupta@gmail.com</a></li>
+      <li><strong>Phone:</strong> +41-783338825</li>
+      <li><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/ananya94">linkedin.com/in/ananya94</a></li>
+      <li><strong>Location:</strong> Lausanne, Switzerland</li>
+    </ul>
+  </div>
 
-**Bold** and _Italic_ and `Code` text
+  <div class="profile-image">
+    <img src="ananya_photo.jpg" alt="Ananya Gupta">
+  </div>
+</div>
 
-[Link](url) and ![Image](src)
-```
+## Key Highlights
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Current Research @ EPFL**
+- Extending LUNA to Cell Morphologies with Prof. Maria Brbić
+- Developed 3D Steady-State SplinePINNs for Navier-Stokes equations
 
-### Jekyll Themes
+**Recent Work**
+- AI Engineer Intern at Nexthink (Aug 2024 - Jan 2025): Enhancing RAG systems
+- Software Engineer III at Google Search (Aug 2020 - Aug 2024): Large-scale system modernization
+- Research Scholar at USC Viterbi: Biomimetic Neuromorphic Circuits
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ananya99/ananya99.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Awards**
+- Director's Gold Medal at IIT BHU
+- 2nd Prize, Women in Tech Hackathon
+- MIT India Initiative participant
