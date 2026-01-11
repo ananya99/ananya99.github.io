@@ -69,7 +69,7 @@ layout: default
 
 <div class="nav-tabs">
   <a href="index.html" class="active">Home</a>
-  <a href="https://github.com/ananya99/ananya99.github.io/blob/master/ananya_cv_2026.pdf" target="_blank">Resume</a>
+  <a href="ananya_cv.pdf" target="_blank">Resume</a>
   <a href="blogs.html">Blogs</a>
 </div>
 
@@ -107,19 +107,3 @@ I'm deeply fascinated by bio-medical applications of AI and ML. I'm currently wo
     <img src="ananya_photo.jpg" alt="Ananya Gupta">
   </div>
 </div>
-
-<!-- ## Key Highlights
-
-**Current Research @ EPFL**
-- Extending LUNA to Cell Morphologies with Prof. Maria Brbić
-- Developed 3D Steady-State SplinePINNs for Navier-Stokes equations
-
-**Recent Work**
-- AI Engineer Intern at Nexthink (Aug 2024 - Jan 2025): Enhancing RAG systems
-- Software Engineer III at Google Search (Aug 2020 - Aug 2024): Large-scale system modernization
-- Research Scholar at USC Viterbi: Biomimetic Neuromorphic Circuits
-
-**Awards**
-- Director's Gold Medal at IIT BHU
-- 2nd Prize, Women in Tech Hackathon
-- MIT India Initiative participant -->
