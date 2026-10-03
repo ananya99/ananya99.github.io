@@ -193,14 +193,16 @@ This still fascinates me. With the MLBIO lab at EPFL, I've worked on extending L
 <details class="section" markdown="1">
   <summary>Beyond the code</summary>
 
-I love thinking and talking about life, emotions, relationships and what we're all here for, and I enjoy hearing perspectives different from mine. I'm an irregular but devoted reader: when something resonates, I can't put it down. I also love good food with balanced flavors, especially Indian and Mediterranean, and a really good pizza. Coffee is non-negotiable ☕
+**Beyond the code.** I love thinking and talking about life, emotions, relationships and what we're all here for, and I enjoy hearing perspectives different from mine. I also spend a lot of time thinking about real, everyday problems and how technology, AI or sometimes just simple, practical knowledge could make things better, and I love discussing these ideas with people. I'm an irregular but devoted reader: when something resonates, I can't put it down. I also love good food with balanced flavors, especially Indian and Mediterranean, and a really good pizza. Coffee is non-negotiable ☕
 
 </details>
 
 <details class="section" markdown="1">
   <summary>Let's talk</summary>
 
-I got more questions on LinkedIn than I could keep up with, so I now take 1:1 sessions on [Topmate](https://topmate.io/ananya_gupta10). I'm happy to talk about applying for a Master's or studying in Europe, breaking into and interviewing at Google, or moving from industry back to research. If you'd rather not book a session, you can drop your question there too, and I'll do my best to help.
+**Let's talk.** I got more questions on LinkedIn than I could keep up with, so I now take 1:1 sessions on [Topmate](https://topmate.io/ananya_gupta10). I'm happy to talk about applying for a Master's or studying in Europe, breaking into and interviewing at Google, or moving from industry back to research. If you'd rather not book a session, you can drop your question there too, and I'll do my best to help.
+
+And if you're working on an idea, or have one that tackles a real problem, I'd love to hear about it too, whether you want to brainstorm or build something together. Drop me an [email](mailto:your-email) or connect with me on [LinkedIn](your-linkedin-url).
 
 </details>
 
