@@ -130,7 +130,7 @@ layout: default
 
 <div class="nav-tabs">
   <a href="index.html" class="active">Home</a>
-  <a href="ananya_cv.pdf" target="_blank">Resume</a>
+  <a href="ananya_cv_10-2026.pdf" target="_blank">Resume</a>
   <a href="blogs.html">Blogs</a>
 </div>
 
